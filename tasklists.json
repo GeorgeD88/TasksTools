@@ -1,0 +1,101 @@
+{
+    "kind": "tasks#taskLists",
+    "items": [
+        {
+            "kind": "tasks#taskList",
+            "id": "MTI1MTc4MDQ3MjY0NjkzMDQzNDE6MDow",
+            "etag": "\"MTU1MDUzODAwNA\"",
+            "title": "\"Grocery\"",
+            "updated": "2022-03-05T23:30:12.490Z",
+            "selfLink": "https://www.googleapis.com/tasks/v1/users/@me/lists/MTI1MTc4MDQ3MjY0NjkzMDQzNDE6MDow"
+        },
+        {
+            "kind": "tasks#taskList",
+            "id": "alB6RFVRWllmc3FXa05vYQ",
+            "etag": "\"MTQ1OTU3MjAyMw\"",
+            "title": "Skol",
+            "updated": "2022-03-04T22:14:06.183Z",
+            "selfLink": "https://www.googleapis.com/tasks/v1/users/@me/lists/alB6RFVRWllmc3FXa05vYQ"
+        },
+        {
+            "kind": "tasks#taskList",
+            "id": "RFF1RGEwbU01Q3VwODZXYg",
+            "etag": "\"LTk1NDMzMjY0NA\"",
+            "title": "Genius Ideas",
+            "updated": "2021-09-08T20:33:59.430Z",
+            "selfLink": "https://www.googleapis.com/tasks/v1/users/@me/lists/RFF1RGEwbU01Q3VwODZXYg"
+        },
+        {
+            "kind": "tasks#taskList",
+            "id": "YmprZmZCOU9fV2o0WkFtaQ",
+            "etag": "\"LTE5ODU2ODQzODE\"",
+            "title": "Coding Ideas",
+            "updated": "2022-03-14T18:15:57.499Z",
+            "selfLink": "https://www.googleapis.com/tasks/v1/users/@me/lists/YmprZmZCOU9fV2o0WkFtaQ"
+        },
+        {
+            "kind": "tasks#taskList",
+            "id": "QkRZdmRHcUM0cERnSmpEQg",
+            "etag": "\"LTE5ODU2NDk2NDM\"",
+            "title": "Kandi",
+            "updated": "2022-03-14T18:16:31.625Z",
+            "selfLink": "https://www.googleapis.com/tasks/v1/users/@me/lists/QkRZdmRHcUM0cERnSmpEQg"
+        },
+        {
+            "kind": "tasks#taskList",
+            "id": "bm9CNFJ6UGpYODE3T3ZCaQ",
+            "etag": "\"LTU3NjM1NTc5\"",
+            "title": "EDM Rabbit Hole",
+            "updated": "2021-11-07T22:41:44.346Z",
+            "selfLink": "https://www.googleapis.com/tasks/v1/users/@me/lists/bm9CNFJ6UGpYODE3T3ZCaQ"
+        },
+        {
+            "kind": "tasks#taskList",
+            "id": "TkliYV82a1Zvb1VjQmQ0bA",
+            "etag": "\"LTEwNzM1NTA3ODI\"",
+            "title": "EDC Prep",
+            "updated": "2021-12-15T21:32:36.574Z",
+            "selfLink": "https://www.googleapis.com/tasks/v1/users/@me/lists/TkliYV82a1Zvb1VjQmQ0bA"
+        },
+        {
+            "kind": "tasks#taskList",
+            "id": "SlhHVk1PQmtuM3pTXzVtQQ",
+            "etag": "\"LTE5ODQ2MzM5OTk\"",
+            "title": "Daily Routine",
+            "updated": "2022-03-14T18:33:27.341Z",
+            "selfLink": "https://www.googleapis.com/tasks/v1/users/@me/lists/SlhHVk1PQmtuM3pTXzVtQQ"
+        },
+        {
+            "kind": "tasks#taskList",
+            "id": "ZUtSYUxpZ0ktckUwcTBBZQ",
+            "etag": "\"LTE5Njg0NDUxMzg\"",
+            "title": "list 9",
+            "updated": "2022-03-14T23:03:16.336Z",
+            "selfLink": "https://www.googleapis.com/tasks/v1/users/@me/lists/ZUtSYUxpZ0ktckUwcTBBZQ"
+        },
+        {
+            "kind": "tasks#taskList",
+            "id": "YVVHMGJSc29GNDRsZ0xWRA",
+            "etag": "\"LTE5Njg0Mzg1MzY\"",
+            "title": "list 10",
+            "updated": "2022-03-14T23:03:23.302Z",
+            "selfLink": "https://www.googleapis.com/tasks/v1/users/@me/lists/YVVHMGJSc29GNDRsZ0xWRA"
+        },
+        {
+            "kind": "tasks#taskList",
+            "id": "N0M5d2xfYXYyWEtYWUM5TA",
+            "etag": "\"LTE5Njg0MjY5ODc\"",
+            "title": "list 11",
+            "updated": "2022-03-14T23:03:34.281Z",
+            "selfLink": "https://www.googleapis.com/tasks/v1/users/@me/lists/N0M5d2xfYXYyWEtYWUM5TA"
+        },
+        {
+            "kind": "tasks#taskList",
+            "id": "S21YVWtqdkMycjgwUkt0Qw",
+            "etag": "\"LTE5Njg0MjY1NzA\"",
+            "title": "list 12",
+            "updated": "2022-03-14T23:03:34.888Z",
+            "selfLink": "https://www.googleapis.com/tasks/v1/users/@me/lists/S21YVWtqdkMycjgwUkt0Qw"
+        }
+    ]
+}

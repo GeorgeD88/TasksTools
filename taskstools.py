@@ -95,15 +95,12 @@ class TasksTools:
              return response
         self.__reset_tasklists_cache__()
 
+    def export_tasklist(self, _id: str, export_filename: str = None):
+        """ Exports tasklist to JSON. """
+        exporting_tasks = self.get_tasks(_id)
+        exporting_list = self.get_tasklist(_id)
+        write_json(exporting_tasks, f'{exporting_list["title"]}_exported_list.json' if export_filename is None else export_filename)
+
     def delete_tasklist(self, _id: str):
         """ Deletes tasklist. """
         return self.api.tasklists().delete(tasklist=_id).execute()
-
-
-creds = auth()
-tasks = TasksTools(credentials=creds)  # API object
-
-edc_prep_id = "TkliYV82a1Zvb1VjQmQ0bA"
-# edc_prep = tasks.get_tasks(edc_prep_id)
-# write_json(edc_prep, 'edc_prep')
-print(tasks.delete_tasklist(edc_prep_id))
